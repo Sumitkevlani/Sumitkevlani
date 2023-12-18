@@ -5,7 +5,7 @@
 </div>
 
 <div id="header" align="center">
-  <a href="https://ibb.co/dbpm7kp"><img src="https://i.ibb.co/8zxYXPx/Sumit-Kevlani.png" alt="Sumit-Kevlani" border="0"></a>
+  <a href="https://ibb.co/6YG4PmL"><img src="https://i.ibb.co/CB4n7zD/Sumit-Kevlani-2.png" alt="Sumit-Kevlani-2" border="0"></a>
 </div>
 <h3 align="center">I am a full-stack web developer and a passionate problem-solver from India.</h3>
 
