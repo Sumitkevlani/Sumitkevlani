@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Flutter App Development**
 
-- 👨‍💻 Check out my project [https://swipe-cart.vercel.app/](https://swipe-cart.vercel.app/)
+- 👨‍💻 Check out my project [SwipeCart](https://swipe-cart.vercel.app/)
 
 - 📫 How to reach me **kevlanisumit2004@gmail.com**
 
