@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 One of my deployed projects [https://whimsical-treacle-318cc6.netlify.app/](https://whimsical-treacle-318cc6.netlify.app/)
+- 👨‍💻 Check out my project [https://swipe-cart.vercel.app/](https://swipe-cart.vercel.app/)
 
 - 📫 How to reach me **kevlanisumit2004@gmail.com**
 
