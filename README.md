@@ -11,9 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkevlani&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkevlani" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website clone.**
-
-- 🌱 I’m currently learning **Machine learning**
+- 🔭 I’m currently working on **Flutter App Development**
 
 - 👨‍💻 Check out my project [https://swipe-cart.vercel.app/](https://swipe-cart.vercel.app/)
 
