@@ -7,7 +7,7 @@
 <div id="header" align="center">
   <a href="https://ibb.co/6YG4PmL"><img src="https://i.ibb.co/CB4n7zD/Sumit-Kevlani-2.png" alt="Sumit-Kevlani-2" border="0"></a>
 </div>
-<h3 align="center">I am a full-stack web developer and a passionate problem-solver from India.</h3>
+<h3 align="center">A Passionate and Self-motivated Tech enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkevlani&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkevlani" /> </p>
 
