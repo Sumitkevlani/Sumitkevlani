@@ -11,9 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkevlani&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkevlani" /> </p>
 
-- 🔭 I’m currently working on **Flutter App Development**
+- 🔭 I’m currently working on **Generative AI and LLM**
 
 - 👨‍💻 Check out my project [SwipeCart](https://swipe-cart.vercel.app/)
+
+- ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg Ask Me about MERN, ML, DL
 
 - 📫 How to reach me **kevlanisumit2004@gmail.com**
 
