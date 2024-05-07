@@ -15,7 +15,7 @@
 
 - 👨‍💻 Check out my project [SwipeCart](https://swipe-cart.vercel.app/)
 
-- ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg Ask Me about MERN, ML, DL
+- https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg Ask Me about MERN, ML, DL
 
 - 📫 How to reach me **kevlanisumit2004@gmail.com**
 
