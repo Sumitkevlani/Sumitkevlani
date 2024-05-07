@@ -15,11 +15,11 @@
 
 - 👨‍💻 Check out my project [SwipeCart](https://swipe-cart.vercel.app/)
 
-- https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg Ask Me about MERN, ML, DL
-
 - 📫 How to reach me **kevlanisumit2004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xjq-xzAS3FxXumPENp8KsrHff9iyamKz/view?usp=sharing](https://drive.google.com/file/d/1xjq-xzAS3FxXumPENp8KsrHff9iyamKz/view?usp=sharing)
+
+- Ask Me about MERN, Machine Learning, Deep Learning, C++, Java, DSA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
