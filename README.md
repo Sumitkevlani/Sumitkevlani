@@ -11,15 +11,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkevlani&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkevlani" /> </p>
 
-- 🔭 I’m currently working on **Generative AI and LLM**
+👩‍💻 I'm currently working on building a RAG Chatbot.
 
-- 👨‍💻 Check out my project [SwipeCart](https://swipe-cart.vercel.app/)
+🧠 I'm currently learning Generative AI and LLMs.
 
-- 📫 How to reach me **kevlanisumit2004@gmail.com**
+👯‍♀️ I'm looking to collaborate on Open-source projects based on MERN stack, Flutter, ML/DL.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xjq-xzAS3FxXumPENp8KsrHff9iyamKz/view?usp=sharing](https://drive.google.com/file/d/1xjq-xzAS3FxXumPENp8KsrHff9iyamKz/view?usp=sharing)
+💬 Ask me about C++, Java, JavaScript, Python, DSA, MERN, AWS, Flutter, ML/DL.
 
-- Ask Me about MERN, Machine Learning, Deep Learning, C++, Java, DSA.
+📫 How to reach me kevlanisumit2004@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
