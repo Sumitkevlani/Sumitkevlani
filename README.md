@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkevlani&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkevlani" /> </p>
 
-👩‍💻 I'm currently working on building a RAG Chatbot.
+👩‍💻 I'm currently working on building a Multimodal LLM application.
 
 🧠 I'm currently learning Generative AI and LLMs.
 
